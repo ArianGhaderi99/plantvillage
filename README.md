@@ -8,7 +8,7 @@ This project is a web application powered by artificial intelligence that allows
 ![Home Page](./screenshots/home.png)
 
 ### Treatment Page
-![Treatment Page](./screenshots/treatment.png)
+![Treatment Page](https://github.com/ArianGhaderi99/plantvillage/blob/main/image/photo_2025-06-03_17-30-07.jpg)
 
 ## 🛠️ Technologies Used
 
