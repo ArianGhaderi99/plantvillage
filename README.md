@@ -24,12 +24,12 @@ We used the **MobileNetV2** model, which is lightweight, fast, and suitable for 
 
 ## 👨‍💻 Team Members
 
-- **[Your Name]** – AI model developer  
-- **[Your Friend's Name]** – Backend & Celery/Redis configuration  
+- **[Arian](https://github.com/arianghaderi99)** – AI model developer  
+- **[Amir hossein](https://github.com/amirhosssein0)** – Backend & Celery/Redis configuration  
 
 ## 🧑‍🤝‍🧑 Team Name
 
-> **Team Name: [Doustack]**
+> **Team Name: [Doustack](https://github.com/doustack)**
 
 ## ⚙️ Installation & Setup
 
