@@ -46,3 +46,5 @@ pip install -r requirements.txt
 
 # Run Django server
 python manage.py runserver
+
+## Note: To use Celery and Redis, start Redis first, then run Celery with:
