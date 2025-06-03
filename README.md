@@ -34,7 +34,7 @@ We used the **MobileNetV2** model, which is lightweight, fast, and suitable for 
 ## ⚙️ Installation & Setup
 
 ```bash
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/ArianGhaderi99/plantvillage.git
 cd repo-name
 
 # Create virtual environment
