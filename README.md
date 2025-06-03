@@ -5,7 +5,7 @@ This project is a web application powered by artificial intelligence that allows
 ## 📸 UI Demo
 
 ### Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](https://github.com/ArianGhaderi99/plantvillage/blob/main/image/photo_2025-06-03_17-30-23.jpg)
 
 ### Treatment Page
 ![Treatment Page](https://github.com/ArianGhaderi99/plantvillage/blob/main/image/photo_2025-06-03_17-30-07.jpg)
@@ -24,12 +24,12 @@ We used the **MobileNetV2** model, which is lightweight, fast, and suitable for 
 
 ## 👨‍💻 Team Members
 
-- **[Your Name]** – Backend & AI model developer  
-- **[Your Friend's Name]** – Frontend & Celery/Redis configuration  
+- **[Your Name]** – AI model developer  
+- **[Your Friend's Name]** – Backend & Celery/Redis configuration  
 
 ## 🧑‍🤝‍🧑 Team Name
 
-> **Team Name: [Your Team Name]**
+> **Team Name: [Doustack]**
 
 ## ⚙️ Installation & Setup
 
